@@ -13,3 +13,4 @@ Local: `gradle assembleDebug` (Gradle 8.9, JDK 17) or open in Android Studio.
 
 ## First run
 Setup tab: grant Usage access and enable Accessibility service. On Android 13+ sideloaded apps need "Allow restricted settings" in App info first.
+"# tracking_application" 
