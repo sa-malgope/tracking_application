@@ -3,12 +3,6 @@
     xmlns:tools="http://schemas.android.com/tools">
 
     <uses-permission
-<<<<<<< HEAD
-=======
-        android:name="android.permission.PACKAGE_USAGE_STATS"
-        tools:ignore="ProtectedPermissions" />
-    <uses-permission
->>>>>>> 8e46d2f75018afec3bec4fa83d5f7a9bb190b99e
         android:name="android.permission.QUERY_ALL_PACKAGES"
         tools:ignore="QueryAllPackagesPermission" />
 
