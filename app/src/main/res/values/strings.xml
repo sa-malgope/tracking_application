@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">App Tracker</string>
+<<<<<<< HEAD
     <string name="service_desc">Logs which app is in the foreground and for how long. Does not read screen content or messages. Data stays on this device.</string>
+=======
+    <string name="service_desc">Logs which app and screen is in the foreground, with timestamps. Data stays on this device. Screen content is not read.</string>
+>>>>>>> 8e46d2f75018afec3bec4fa83d5f7a9bb190b99e
 </resources>
